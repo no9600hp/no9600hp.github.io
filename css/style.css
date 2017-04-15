@@ -26,9 +26,9 @@
   box-shadow: 0; }
 
 .header {
-  height: 600px;
-  width: 100%;
-  padding: 100px 0 30px;
+  height: 680px;
+  padding: 80px 0 80px;
+  text-align: center;
   margin-top: 30px;
   background-image: url(../images/background.jpg);
   background-position: center center;
@@ -157,11 +157,11 @@ body {
 .join {
   padding: 80px 0 80px;
   text-align: center;
-  background: #F1F2B5;
+  background: #2980b9;
   /* fallback for old browsers */
-  background: -webkit-linear-gradient(to right, #135058, #F1F2B5);
+  background: -webkit-linear-gradient(to right, #2c3e50, #2980b9);
   /* Chrome 10-25, Safari 5.1-6 */
-  background: linear-gradient(to right, #135058, #F1F2B5);
+  background: linear-gradient(to right, #2c3e50, #2980b9);
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
   height: 600px;
   color: #626262; }
@@ -172,7 +172,7 @@ body {
   color: #737373; }
 
 .join h2 {
-  color: #4c4c4c;
+  color: #fff;
   margin: 20px 0 20px;
   font-family: "Exo 2", "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
