@@ -49,7 +49,7 @@
   text-shadow: #000000 0 0 20px;
   font-family: "Exo 2", "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
-@media (max-width: 768px) {
+@media (max-width: 1024px) {
   .header {
     padding: 30px;
     height: 600px; } }
